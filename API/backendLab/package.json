@@ -1,0 +1,12 @@
+{
+  "name": "sirenoman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "DEBUG=dummyDictionary:* nodemon ./bin/www"
+  },
+  "author": "",
+  "license": "ISC"
+}
